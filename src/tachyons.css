@@ -62,6 +62,7 @@
 @import './_position';
 @import './_opacity';
 @import './_rotations';
+@import './_scale';
 @import './_skins';
 @import './_skins-pseudo';
 @import './_spacing';
