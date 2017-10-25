@@ -560,6 +560,20 @@ img { max-width: 100%; }
 .shadow-4 { box-shadow: 0 0 12px 0 rgba( 0, 0, 0, .2 ); }
 .shadow-5 { box-shadow: 0 0 14px 0 rgba( 0, 0, 0, .2 ); }
 .shadow-6 { box-shadow: 0 5px 10px 0 rgba( 0, 0, 0, .5 ); }
+/* 
+  
+   BOX-SHADOW:PSEUDO
+
+   Customize the shadow of an element when
+   it is focused or hovered over.
+ 
+ */
+.hover-shadow-1:hover, .hover-shadow-1:focus { box-shadow: 0 6px 5px 0 rgba( 0, 0, 0, .06 ); }
+.hover-shadow-2:hover, .hover-shadow-2:focus { box-shadow: 0 2px 50px 0 rgba( 0, 0, 0, .06 ); }
+.hover-shadow-3:hover, .hover-shadow-3:focus { box-shadow: 0 6px 40px 0 rgba( 0, 0, 0, .06 ); }
+.hover-shadow-4:hover, .hover-shadow-4:focus { box-shadow: 0 0 12px 0 rgba( 0, 0, 0, .2 ); }
+.hover-shadow-5:hover, .hover-shadow-5:focus { box-shadow: 0 0 14px 0 rgba( 0, 0, 0, .2 ); }
+.hover-shadow-6:hover, .hover-shadow-6:focus { box-shadow: 0 5px 10px 0 rgba( 0, 0, 0, .5 ); }
 /*
 
    CODE
@@ -2152,6 +2166,12 @@ code, .code { font-family: Consolas, monaco, monospace; }
  .shadow-4-ns { box-shadow: 0 0 12px 0 rgba( 0, 0, 0, .2 ); }
  .shadow-5-ns { box-shadow: 0 0 14px 0 rgba( 0, 0, 0, .2 ); }
  .shadow-6-ns { box-shadow: 0 5px 10px 0 rgba( 0, 0, 0, .5 ); }
+ .hover-shadow-1-ns:hover, .hover-shadow-1-ns:focus { box-shadow: 0 6px 5px 0 rgba( 0, 0, 0, .06 ); }
+ .hover-shadow-2-ns:hover, .hover-shadow-2-ns:focus { box-shadow: 0 2px 50px 0 rgba( 0, 0, 0, .06 ); }
+ .hover-shadow-3-ns:hover, .hover-shadow-3-ns:focus { box-shadow: 0 6px 40px 0 rgba( 0, 0, 0, .06 ); }
+ .hover-shadow-4-ns:hover, .hover-shadow-4-ns:focus { box-shadow: 0 0 12px 0 rgba( 0, 0, 0, .2 ); }
+ .hover-shadow-5-ns:hover, .hover-shadow-5-ns:focus { box-shadow: 0 0 14px 0 rgba( 0, 0, 0, .2 ); }
+ .hover-shadow-6-ns:hover, .hover-shadow-6-ns:focus { box-shadow: 0 5px 10px 0 rgba( 0, 0, 0, .5 ); }
  .top-0-ns { top: 0; }
  .left-0-ns { left: 0; }
  .right-0-ns { right: 0; }
@@ -2581,6 +2601,12 @@ code, .code { font-family: Consolas, monaco, monospace; }
  .shadow-4-m { box-shadow: 0 0 12px 0 rgba( 0, 0, 0, .2 ); }
  .shadow-5-m { box-shadow: 0 0 14px 0 rgba( 0, 0, 0, .2 ); }
  .shadow-6-m { box-shadow: 0 5px 10px 0 rgba( 0, 0, 0, .5 ); }
+ .hover-shadow-1-m:hover, .hover-shadow-1-m:focus { box-shadow: 0 6px 5px 0 rgba( 0, 0, 0, .06 ); }
+ .hover-shadow-2-m:hover, .hover-shadow-2-m:focus { box-shadow: 0 2px 50px 0 rgba( 0, 0, 0, .06 ); }
+ .hover-shadow-3-m:hover, .hover-shadow-3-m:focus { box-shadow: 0 6px 40px 0 rgba( 0, 0, 0, .06 ); }
+ .hover-shadow-4-m:hover, .hover-shadow-4-m:focus { box-shadow: 0 0 12px 0 rgba( 0, 0, 0, .2 ); }
+ .hover-shadow-5-m:hover, .hover-shadow-5-m:focus { box-shadow: 0 0 14px 0 rgba( 0, 0, 0, .2 ); }
+ .hover-shadow-6-m:hover, .hover-shadow-6-m:focus { box-shadow: 0 5px 10px 0 rgba( 0, 0, 0, .5 ); }
  .top-0-m { top: 0; }
  .left-0-m { left: 0; }
  .right-0-m { right: 0; }
@@ -3010,6 +3036,12 @@ code, .code { font-family: Consolas, monaco, monospace; }
  .shadow-4-l { box-shadow: 0 0 12px 0 rgba( 0, 0, 0, .2 ); }
  .shadow-5-l { box-shadow: 0 0 14px 0 rgba( 0, 0, 0, .2 ); }
  .shadow-6-l { box-shadow: 0 5px 10px 0 rgba( 0, 0, 0, .5 ); }
+ .hover-shadow-1-l:hover, .hover-shadow-1-l:focus { box-shadow: 0 6px 5px 0 rgba( 0, 0, 0, .06 ); }
+ .hover-shadow-2-l:hover, .hover-shadow-2-l:focus { box-shadow: 0 2px 50px 0 rgba( 0, 0, 0, .06 ); }
+ .hover-shadow-3-l:hover, .hover-shadow-3-l:focus { box-shadow: 0 6px 40px 0 rgba( 0, 0, 0, .06 ); }
+ .hover-shadow-4-l:hover, .hover-shadow-4-l:focus { box-shadow: 0 0 12px 0 rgba( 0, 0, 0, .2 ); }
+ .hover-shadow-5-l:hover, .hover-shadow-5-l:focus { box-shadow: 0 0 14px 0 rgba( 0, 0, 0, .2 ); }
+ .hover-shadow-6-l:hover, .hover-shadow-6-l:focus { box-shadow: 0 5px 10px 0 rgba( 0, 0, 0, .5 ); }
  .top-0-l { top: 0; }
  .left-0-l { left: 0; }
  .right-0-l { right: 0; }

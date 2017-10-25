@@ -1,0 +1,66 @@
+/* 
+  
+   BOX-SHADOW:PSEUDO
+
+   Customize the shadow of an element when
+   it is focused or hovered over.
+ 
+ */
+
+.hover-shadow-1:hover,
+.hover-shadow-1:focus { box-shadow: 0px 6px 5px 0px rgba( 0, 0, 0, 0.06 ); }
+.hover-shadow-2:hover,
+.hover-shadow-2:focus { box-shadow: 0px 2px 50px 0px rgba( 0, 0, 0, 0.06 ); }
+.hover-shadow-3:hover,
+.hover-shadow-3:focus { box-shadow: 0px 6px 40px 0px rgba( 0, 0, 0, 0.06 ); }
+.hover-shadow-4:hover,
+.hover-shadow-4:focus { box-shadow: 0px 0px 12px 0px rgba( 0, 0, 0, 0.2 ); }
+.hover-shadow-5:hover,
+.hover-shadow-5:focus { box-shadow: 0px 0px 14px 0px rgba( 0, 0, 0, 0.2 ); }
+.hover-shadow-6:hover,
+.hover-shadow-6:focus { box-shadow: 0px 5px 10px 0px rgba( 0, 0, 0, 0.5 ); }
+
+@media (--breakpoint-not-small) {
+    .hover-shadow-1-ns:hover,
+    .hover-shadow-1-ns:focus { box-shadow: 0px 6px 5px 0px rgba( 0, 0, 0, 0.06 ); }
+    .hover-shadow-2-ns:hover,
+    .hover-shadow-2-ns:focus { box-shadow: 0px 2px 50px 0px rgba( 0, 0, 0, 0.06 ); }
+    .hover-shadow-3-ns:hover,
+    .hover-shadow-3-ns:focus { box-shadow: 0px 6px 40px 0px rgba( 0, 0, 0, 0.06 ); }
+    .hover-shadow-4-ns:hover,
+    .hover-shadow-4-ns:focus { box-shadow: 0px 0px 12px 0px rgba( 0, 0, 0, 0.2 ); }
+    .hover-shadow-5-ns:hover,
+    .hover-shadow-5-ns:focus { box-shadow: 0px 0px 14px 0px rgba( 0, 0, 0, 0.2 ); }
+    .hover-shadow-6-ns:hover,
+    .hover-shadow-6-ns:focus { box-shadow: 0px 5px 10px 0px rgba( 0, 0, 0, 0.5 ); }
+  }
+  
+  @media (--breakpoint-medium) {
+    .hover-shadow-1-m:hover,
+    .hover-shadow-1-m:focus { box-shadow: 0px 6px 5px 0px rgba( 0, 0, 0, 0.06 ); }
+    .hover-shadow-2-m:hover,
+    .hover-shadow-2-m:focus { box-shadow: 0px 2px 50px 0px rgba( 0, 0, 0, 0.06 ); }
+    .hover-shadow-3-m:hover,
+    .hover-shadow-3-m:focus { box-shadow: 0px 6px 40px 0px rgba( 0, 0, 0, 0.06 ); }
+    .hover-shadow-4-m:hover,
+    .hover-shadow-4-m:focus { box-shadow: 0px 0px 12px 0px rgba( 0, 0, 0, 0.2 ); }
+    .hover-shadow-5-m:hover,
+    .hover-shadow-5-m:focus { box-shadow: 0px 0px 14px 0px rgba( 0, 0, 0, 0.2 ); }
+    .hover-shadow-6-m:hover,
+    .hover-shadow-6-m:focus { box-shadow: 0px 5px 10px 0px rgba( 0, 0, 0, 0.5 ); }
+  }
+  
+  @media (--breakpoint-large) {
+    .hover-shadow-1-l:hover,
+    .hover-shadow-1-l:focus { box-shadow: 0px 6px 5px 0px rgba( 0, 0, 0, 0.06 ); }
+    .hover-shadow-2-l:hover,
+    .hover-shadow-2-l:focus { box-shadow: 0px 2px 50px 0px rgba( 0, 0, 0, 0.06 ); }
+    .hover-shadow-3-l:hover,
+    .hover-shadow-3-l:focus { box-shadow: 0px 6px 40px 0px rgba( 0, 0, 0, 0.06 ); }
+    .hover-shadow-4-l:hover,
+    .hover-shadow-4-l:focus { box-shadow: 0px 0px 12px 0px rgba( 0, 0, 0, 0.2 ); }
+    .hover-shadow-5-l:hover,
+    .hover-shadow-5-l:focus { box-shadow: 0px 0px 14px 0px rgba( 0, 0, 0, 0.2 ); }
+    .hover-shadow-6-l:hover,
+    .hover-shadow-6-l:focus { box-shadow: 0px 5px 10px 0px rgba( 0, 0, 0, 0.5 ); }
+  }

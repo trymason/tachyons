@@ -41,6 +41,7 @@
 @import './_border-style';
 @import './_border-widths';
 @import './_box-shadow';
+@import './_box-shadow-pseudo';
 @import './_code';
 @import './_coordinates';
 @import './_clears';
