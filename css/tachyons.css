@@ -1567,6 +1567,7 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .pv0 { padding-top: 0; padding-bottom: 0; }
 .pv1 { padding-top: .25rem; padding-bottom: .25rem; }
 .pv2 { padding-top: .5rem; padding-bottom: .5rem; }
+.pv2_5 { padding-top: .75rem; padding-bottom: .75rem; }
 .pv3 { padding-top: 1rem; padding-bottom: 1rem; }
 .pv4 { padding-top: 2rem; padding-bottom: 2rem; }
 .pv5 { padding-top: 4rem; padding-bottom: 4rem; }
@@ -2400,6 +2401,7 @@ code, .code { font-family: Consolas, monaco, monospace; }
  .pv0-ns { padding-top: 0; padding-bottom: 0; }
  .pv1-ns { padding-top: .25rem; padding-bottom: .25rem; }
  .pv2-ns { padding-top: .5rem; padding-bottom: .5rem; }
+ .pv2_5-ns { padding-top: .75rem; padding-bottom: .75rem; }
  .pv3-ns { padding-top: 1rem; padding-bottom: 1rem; }
  .pv4-ns { padding-top: 2rem; padding-bottom: 2rem; }
  .pv5-ns { padding-top: 4rem; padding-bottom: 4rem; }
@@ -2836,6 +2838,7 @@ code, .code { font-family: Consolas, monaco, monospace; }
  .pv0-m { padding-top: 0; padding-bottom: 0; }
  .pv1-m { padding-top: .25rem; padding-bottom: .25rem; }
  .pv2-m { padding-top: .5rem; padding-bottom: .5rem; }
+ .pv2_5-m { padding-top: .75rem; padding-bottom: .75rem; }
  .pv3-m { padding-top: 1rem; padding-bottom: 1rem; }
  .pv4-m { padding-top: 2rem; padding-bottom: 2rem; }
  .pv5-m { padding-top: 4rem; padding-bottom: 4rem; }
@@ -3272,6 +3275,7 @@ code, .code { font-family: Consolas, monaco, monospace; }
  .pv0-l { padding-top: 0; padding-bottom: 0; }
  .pv1-l { padding-top: .25rem; padding-bottom: .25rem; }
  .pv2-l { padding-top: .5rem; padding-bottom: .5rem; }
+ .pv2_5-l { padding-top: .75rem; padding-bottom: .75rem; }
  .pv3-l { padding-top: 1rem; padding-bottom: 1rem; }
  .pv4-l { padding-top: 2rem; padding-bottom: 2rem; }
  .pv5-l { padding-top: 4rem; padding-bottom: 4rem; }

@@ -4,6 +4,7 @@
   --spacing-none: 0;
   --spacing-extra-small: .25rem;
   --spacing-small: .5rem;
+  --spacing-three-quarters: .75rem;
   --spacing-medium: 1rem;
   --spacing-large: 2rem;
   --spacing-extra-large: 4rem;
@@ -103,6 +104,10 @@
 .pv2 {
   padding-top: var(--spacing-small);
   padding-bottom: var(--spacing-small);
+}
+.pv2_5 {
+  padding-top: var(--spacing-three-quarters);
+  padding-bottom: var(--spacing-three-quarters);
 }
 .pv3 {
   padding-top: var(--spacing-medium);
@@ -335,6 +340,10 @@
     padding-top: var(--spacing-small);
     padding-bottom: var(--spacing-small);
   }
+  .pv2_5-ns {
+    padding-top: var(--spacing-three-quarters);
+    padding-bottom: var(--spacing-three-quarters);
+  }
   .pv3-ns {
     padding-top: var(--spacing-medium);
     padding-bottom: var(--spacing-medium);
@@ -558,6 +567,10 @@
   .pv2-m {
     padding-top: var(--spacing-small);
     padding-bottom: var(--spacing-small);
+  }
+  .pv2_5-m {
+    padding-top: var(--spacing-three-quarters);
+    padding-bottom: var(--spacing-three-quarters);
   }
   .pv3-m {
     padding-top: var(--spacing-medium);
@@ -783,6 +796,10 @@
   .pv2-l {
     padding-top: var(--spacing-small);
     padding-bottom: var(--spacing-small);
+  }
+  .pv2_5-l {
+    padding-top: var(--spacing-three-quarters);
+    padding-bottom: var(--spacing-three-quarters);
   }
   .pv3-l {
     padding-top: var(--spacing-medium);
