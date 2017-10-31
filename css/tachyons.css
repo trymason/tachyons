@@ -1813,6 +1813,7 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .f5 { font-size: 1rem; }
 .f6 { font-size: .875rem; }
 .f7 { font-size: .75rem; }
+.f8 { font-size: .625rem; }
 /* Small and hard to read for many people so use with extreme caution */
 /*
 
@@ -2526,6 +2527,7 @@ code, .code { font-family: Consolas, monaco, monospace; }
  .f5-ns { font-size: 1rem; }
  .f6-ns { font-size: .875rem; }
  .f7-ns { font-size: .75rem; }
+ .f8-ns { font-size: .625rem; }
  .measure-ns { max-width: 30em; }
  .measure-wide-ns { max-width: 34em; }
  .measure-narrow-ns { max-width: 20em; }
@@ -2963,6 +2965,7 @@ code, .code { font-family: Consolas, monaco, monospace; }
  .f5-m { font-size: 1rem; }
  .f6-m { font-size: .875rem; }
  .f7-m { font-size: .75rem; }
+ .f8-m { font-size: .625rem; }
  .measure-m { max-width: 30em; }
  .measure-wide-m { max-width: 34em; }
  .measure-narrow-m { max-width: 20em; }
@@ -3400,6 +3403,7 @@ code, .code { font-family: Consolas, monaco, monospace; }
  .f5-l { font-size: 1rem; }
  .f6-l { font-size: .875rem; }
  .f7-l { font-size: .75rem; }
+ .f8-l { font-size: .625rem; }
  .measure-l { max-width: 30em; }
  .measure-wide-l { max-width: 34em; }
  .measure-narrow-l { max-width: 20em; }
