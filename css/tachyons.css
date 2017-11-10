@@ -362,6 +362,7 @@ img { max-width: 100%; }
 
 */
 .ba { border-style: solid; border-width: 1px; }
+.ba-hover:hover { border-style: solid; border-width: 1px; }
 .bt { border-top-style: solid; border-top-width: 1px; }
 .br { border-right-style: solid; border-right-width: 1px; }
 .bb { border-bottom-style: solid; border-bottom-width: 1px; }
@@ -2134,6 +2135,7 @@ code, .code { font-family: Consolas, monaco, monospace; }
  .outline-transparent-ns { outline: 1px solid transparent; }
  .outline-0-ns { outline: 0; }
  .ba-ns { border-style: solid; border-width: 1px; }
+ .ba-ns-hover:hover { border-style: solid; border-width: 1px; }
  .bt-ns { border-top-style: solid; border-top-width: 1px; }
  .br-ns { border-right-style: solid; border-right-width: 1px; }
  .bb-ns { border-bottom-style: solid; border-bottom-width: 1px; }
@@ -2573,6 +2575,7 @@ code, .code { font-family: Consolas, monaco, monospace; }
  .outline-transparent-m { outline: 1px solid transparent; }
  .outline-0-m { outline: 0; }
  .ba-m { border-style: solid; border-width: 1px; }
+ .ba-m-hover:hover { border-style: solid; border-width: 1px; }
  .bt-m { border-top-style: solid; border-top-width: 1px; }
  .br-m { border-right-style: solid; border-right-width: 1px; }
  .bb-m { border-bottom-style: solid; border-bottom-width: 1px; }
@@ -3012,6 +3015,7 @@ code, .code { font-family: Consolas, monaco, monospace; }
  .outline-transparent-l { outline: 1px solid transparent; }
  .outline-0-l { outline: 0; }
  .ba-l { border-style: solid; border-width: 1px; }
+ .ba-l-hover:hover { border-style: solid; border-width: 1px; }
  .bt-l { border-top-style: solid; border-top-width: 1px; }
  .br-l { border-right-style: solid; border-right-width: 1px; }
  .bb-l { border-bottom-style: solid; border-bottom-width: 1px; }
