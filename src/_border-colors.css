@@ -29,6 +29,7 @@
 .b--light-gray {   border-color: var(--light-gray); }
 .b--near-white {   border-color: var(--near-white); }
 .b--white {        border-color: var(--white); }
+.b--snow-white {        border-color: var(--snow-white); }
 
 .b--white-90 {   border-color: var(--white-90); }
 .b--white-80 {   border-color: var(--white-80); }
