@@ -398,6 +398,7 @@ img { max-width: 100%; }
 .b--light-gray { border-color: #eee; }
 .b--near-white { border-color: #f4f4f4; }
 .b--white { border-color: #fff; }
+.b--snow-white { border-color: #fcfcfc; }
 .b--white-90 { border-color: rgba( 255, 255, 255, .9 ); }
 .b--white-80 { border-color: rgba( 255, 255, 255, .8 ); }
 .b--white-70 { border-color: rgba( 255, 255, 255, .7 ); }
@@ -1143,8 +1144,8 @@ code, .code { font-family: Consolas, monaco, monospace; }
    Docs: http://tachyons.io/docs/themes/skins/
 
    Classes for setting foreground and background colors on elements.
-   If you haven't declared a border color, but set border on an element, it will 
-   be set to the current text color. 
+   If you haven't declared a border color, but set border on an element, it will
+   be set to the current text color.
 
 */
 /* Text colors */
@@ -1178,6 +1179,7 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .light-gray { color: #eee; }
 .near-white { color: #f4f4f4; }
 .white { color: #fff; }
+.snow-white { color: #fcfcfc; }
 .dark-red { color: #e7040f; }
 .red { color: #ff4136; }
 .light-red { color: #ff725c; }
@@ -1235,6 +1237,7 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .bg-light-gray { background-color: #eee; }
 .bg-near-white { background-color: #f4f4f4; }
 .bg-white { background-color: #fff; }
+.bg-snow-white { background-color: #fcfcfc; }
 .bg-transparent { background-color: transparent; }
 .bg-dark-red { background-color: #e7040f; }
 .bg-red { background-color: #ff4136; }
@@ -1262,13 +1265,13 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .bg-washed-yellow { background-color: #fffceb; }
 .bg-washed-red { background-color: #ffdfdf; }
 .bg-inherit { background-color: inherit; }
-/* 
-  
+/*
+
    SKINS:PSEUDO
 
    Customize the color of an element when
    it is focused or hovered over.
- 
+
  */
 .hover-black:hover { color: #000; }
 .hover-black:focus { color: #000; }
@@ -1292,6 +1295,8 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .hover-near-white:focus { color: #f4f4f4; }
 .hover-white:hover { color: #fff; }
 .hover-white:focus { color: #fff; }
+.hover-snow-white:hover { color: #fcfcfc; }
+.hover-snow-white:focus { color: #fcfcfc; }
 .hover-black-90:hover { color: rgba( 0, 0, 0, .9 ); }
 .hover-black-90:focus { color: rgba( 0, 0, 0, .9 ); }
 .hover-black-80:hover { color: rgba( 0, 0, 0, .8 ); }
@@ -1351,6 +1356,8 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .hover-bg-near-white:focus { background-color: #f4f4f4; }
 .hover-bg-white:hover { background-color: #fff; }
 .hover-bg-white:focus { background-color: #fff; }
+.hover-bg-snow-white:hover { background-color: #fcfcfc; }
+.hover-bg-snow-white:focus { background-color: #fcfcfc; }
 .hover-bg-transparent:hover { background-color: transparent; }
 .hover-bg-transparent:focus { background-color: transparent; }
 .hover-bg-black-90:hover { background-color: rgba( 0, 0, 0, .9 ); }
@@ -2423,7 +2430,6 @@ code, .code { font-family: Consolas, monaco, monospace; }
  .ma1-ns { margin: .25rem; }
  .ma2-ns { margin: .5rem; }
  .ma3-ns { margin: 1rem; }
- .ma3cb-ns { margin: 1.25rem; }
  .ma4-ns { margin: 2rem; }
  .ma5-ns { margin: 4rem; }
  .ma6-ns { margin: 8rem; }
