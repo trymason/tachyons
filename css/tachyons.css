@@ -391,7 +391,7 @@ img { max-width: 100%; }
 .b--near-black { border-color: #111; }
 .b--dark-gray { border-color: #4b4b4b; }
 .b--mid-gray { border-color: #555; }
-.b--gray { border-color: #777; }
+.b--gray { border-color: #818d8d; }
 .b--silver { border-color: #999; }
 .b--light-silver { border-color: #aaa; }
 .b--moon-gray { border-color: #e0e0e0; }
@@ -1172,7 +1172,7 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .near-black { color: #111; }
 .dark-gray { color: #4b4b4b; }
 .mid-gray { color: #555; }
-.gray { color: #777; }
+.gray { color: #818d8d; }
 .silver { color: #999; }
 .light-silver { color: #aaa; }
 .moon-gray { color: #e0e0e0; }
@@ -1230,7 +1230,7 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .bg-near-black { background-color: #111; }
 .bg-dark-gray { background-color: #4b4b4b; }
 .bg-mid-gray { background-color: #555; }
-.bg-gray { background-color: #777; }
+.bg-gray { background-color: #818d8d; }
 .bg-silver { background-color: #999; }
 .bg-light-silver { background-color: #aaa; }
 .bg-moon-gray { background-color: #e0e0e0; }
@@ -1281,8 +1281,8 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .hover-dark-gray:focus { color: #4b4b4b; }
 .hover-mid-gray:hover { color: #555; }
 .hover-mid-gray:focus { color: #555; }
-.hover-gray:hover { color: #777; }
-.hover-gray:focus { color: #777; }
+.hover-gray:hover { color: #818d8d; }
+.hover-gray:focus { color: #818d8d; }
 .hover-silver:hover { color: #999; }
 .hover-silver:focus { color: #999; }
 .hover-light-silver:hover { color: #aaa; }
@@ -1342,8 +1342,8 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .hover-bg-dark-gray:focus { background-color: #4b4b4b; }
 .hover-bg-mid-gray:hover { background-color: #555; }
 .hover-bg-mid-gray:focus { background-color: #555; }
-.hover-bg-gray:hover { background-color: #777; }
-.hover-bg-gray:focus { background-color: #777; }
+.hover-bg-gray:hover { background-color: #818d8d; }
+.hover-bg-gray:focus { background-color: #818d8d; }
 .hover-bg-silver:hover { background-color: #999; }
 .hover-bg-silver:focus { background-color: #999; }
 .hover-bg-light-silver:hover { background-color: #aaa; }

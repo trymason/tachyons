@@ -23,15 +23,16 @@
 
   --dark-gray:#4b4b4b;
   --mid-gray:#555;
-  --gray: #777;
+  --gray: #818D8D;
   --moon-gray: #e0e0e0;
   --light-gray: #eee;
 
+  --green:  #089D78;
+
+  /* Tachyons defined colors below (do not use) */
   --silver: #999;
   --light-silver: #aaa;
 
-  --green:  #089D78;
-  /* Tachyons defined colors below (do not use) */
  --black-90: rgba(0,0,0,.9);
  --black-80: rgba(0,0,0,.8);
  --black-70: rgba(0,0,0,.7);
