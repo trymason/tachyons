@@ -2014,10 +2014,8 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .underline-hover:hover, .underline-hover:focus { text-decoration: underline; }
 /* Can combine this with overflow-hidden to make background images grow on hover
  * even if you are using background-size: cover */
-.grow, .grow-top { -moz-osx-font-smoothing: grayscale; -webkit-backface-visibility: hidden; backface-visibility: hidden; -webkit-transform: translateZ( 0 ); transform: translateZ( 0 ); transition: -webkit-transform .25s ease-out; transition: transform .25s ease-out; transition: transform .25s ease-out, -webkit-transform .25s ease-out; }
+.grow { -moz-osx-font-smoothing: grayscale; -webkit-backface-visibility: hidden; backface-visibility: hidden; -webkit-transform: translateZ( 0 ); transform: translateZ( 0 ); transition: -webkit-transform .25s ease-out; transition: transform .25s ease-out; transition: transform .25s ease-out, -webkit-transform .25s ease-out; }
 .grow:hover, .grow:focus { -webkit-transform: scale( 1.05 ); transform: scale( 1.05 ); }
-.grow:active { -webkit-transform: scale( .90 ); transform: scale( .90 ); }
-.grow-top:hover, .grow-top:focus { -webkit-transform: scale( 1.05 ); transform: scale( 1.05 ); z-index: 100; }
 .grow-large { -moz-osx-font-smoothing: grayscale; -webkit-backface-visibility: hidden; backface-visibility: hidden; -webkit-transform: translateZ( 0 ); transform: translateZ( 0 ); transition: -webkit-transform .25s ease-in-out; transition: transform .25s ease-in-out; transition: transform .25s ease-in-out, -webkit-transform .25s ease-in-out; }
 .grow-large:hover, .grow-large:focus { -webkit-transform: scale( 1.2 ); transform: scale( 1.2 ); }
 .grow-large:active { -webkit-transform: scale( .95 ); transform: scale( .95 ); }

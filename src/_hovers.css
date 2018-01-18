@@ -79,7 +79,7 @@
 /* Can combine this with overflow-hidden to make background images grow on hover
  * even if you are using background-size: cover */
 
-.grow, .grow-top {
+.grow {
   -moz-osx-font-smoothing: grayscale;
   backface-visibility: hidden;
   transform: translateZ(0);
@@ -89,16 +89,6 @@
 .grow:hover,
 .grow:focus {
   transform: scale(1.05);
-}
-
-.grow:active {
-  transform: scale(.90);
-}
-
-.grow-top:hover,
-.grow-top:focus {
-  transform: scale(1.05);
-  z-index: 100;
 }
 
 .grow-large {
