@@ -35,6 +35,7 @@
   --light-red:  #F35C49;
   --dark-blue:  #2326C2;
   --blue:  #4A4DE0;
+  --light-blue:  #44B1FF;
 
   /* Tachyons defined colors below (do not use) */
   --silver: #999;
@@ -79,7 +80,6 @@
 
   --light-green:  #9eebcf;
   --navy:  #001b44;
-  --light-blue:  #96ccff;
   --lightest-blue:  #cdecff;
   --washed-blue:  #f6fffe;
   --washed-green:  #e8fdf5;
