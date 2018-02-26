@@ -1784,6 +1784,9 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .na5 { margin: -3rem; }
 .na6 { margin: -4rem; }
 .na7 { margin: -5rem; }
+.na8 { margin: -6rem; }
+.na9 { margin: -7rem; }
+.na10 { margin: -8rem; }
 .nl1 { margin-left: -.25rem; }
 .nl2 { margin-left: -.5rem; }
 .nl3 { margin-left: -1rem; }
@@ -1791,6 +1794,9 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .nl5 { margin-left: -3rem; }
 .nl6 { margin-left: -4rem; }
 .nl7 { margin-left: -5rem; }
+.nl8 { margin: -6rem; }
+.nl9 { margin: -7rem; }
+.nl10 { margin: -8rem; }
 .nr1 { margin-right: -.25rem; }
 .nr2 { margin-right: -.5rem; }
 .nr3 { margin-right: -1rem; }
@@ -1798,6 +1804,9 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .nr5 { margin-right: -3rem; }
 .nr6 { margin-right: -4rem; }
 .nr7 { margin-right: -5rem; }
+.nr8 { margin: -6rem; }
+.nr9 { margin: -7rem; }
+.nr10 { margin: -8rem; }
 .nb1 { margin-bottom: -.25rem; }
 .nb2 { margin-bottom: -.5rem; }
 .nb3 { margin-bottom: -1rem; }
@@ -1805,6 +1814,9 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .nb5 { margin-bottom: -3rem; }
 .nb6 { margin-bottom: -4rem; }
 .nb7 { margin-bottom: -5rem; }
+.nb8 { margin: -6rem; }
+.nb9 { margin: -7rem; }
+.nb10 { margin: -8rem; }
 .nt1 { margin-top: -.25rem; }
 .nt2 { margin-top: -.5rem; }
 .nt3 { margin-top: -1rem; }
@@ -1812,6 +1824,9 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .nt5 { margin-top: -3rem; }
 .nt6 { margin-top: -4rem; }
 .nt7 { margin-top: -5rem; }
+.nt8 { margin: -6rem; }
+.nt9 { margin: -7rem; }
+.nt10 { margin: -8rem; }
 /*
 
   TABLES
@@ -2636,6 +2651,9 @@ code, .code { font-family: Consolas, monaco, monospace; }
  .na5-ns { margin: -3rem; }
  .na6-ns { margin: -4rem; }
  .na7-ns { margin: -5rem; }
+ .na8-ns { margin: -6rem; }
+ .na9-ns { margin: -7rem; }
+ .na10-ns { margin: -8rem; }
  .nl1-ns { margin-left: -.25rem; }
  .nl2-ns { margin-left: -.5rem; }
  .nl3-ns { margin-left: -1rem; }
@@ -2643,6 +2661,9 @@ code, .code { font-family: Consolas, monaco, monospace; }
  .nl5-ns { margin-left: -3rem; }
  .nl6-ns { margin-left: -4rem; }
  .nl7-ns { margin-left: -5rem; }
+ .nl8-ns { margin: -6rem; }
+ .nl9-ns { margin: -7rem; }
+ .nl10-ns { margin: -8rem; }
  .nr1-ns { margin-right: -.25rem; }
  .nr2-ns { margin-right: -.5rem; }
  .nr3-ns { margin-right: -1rem; }
@@ -2650,6 +2671,9 @@ code, .code { font-family: Consolas, monaco, monospace; }
  .nr5-ns { margin-right: -3rem; }
  .nr6-ns { margin-right: -4rem; }
  .nr7-ns { margin-right: -5rem; }
+ .nr8-ns { margin: -6rem; }
+ .nr9-ns { margin: -7rem; }
+ .nr10-ns { margin: -8rem; }
  .nb1-ns { margin-bottom: -.25rem; }
  .nb2-ns { margin-bottom: -.5rem; }
  .nb3-ns { margin-bottom: -1rem; }
@@ -2657,6 +2681,9 @@ code, .code { font-family: Consolas, monaco, monospace; }
  .nb5-ns { margin-bottom: -3rem; }
  .nb6-ns { margin-bottom: -4rem; }
  .nb7-ns { margin-bottom: -5rem; }
+ .nb8-ns { margin: -6rem; }
+ .nb9-ns { margin: -7rem; }
+ .nb10-ns { margin: -8rem; }
  .nt1-ns { margin-top: -.25rem; }
  .nt2-ns { margin-top: -.5rem; }
  .nt3-ns { margin-top: -1rem; }
@@ -2664,6 +2691,9 @@ code, .code { font-family: Consolas, monaco, monospace; }
  .nt5-ns { margin-top: -3rem; }
  .nt6-ns { margin-top: -4rem; }
  .nt7-ns { margin-top: -5rem; }
+ .nt8-ns { margin: -6rem; }
+ .nt9-ns { margin: -7rem; }
+ .nt10-ns { margin: -8rem; }
  .strike-ns { text-decoration: line-through; }
  .underline-ns { text-decoration: underline; }
  .no-underline-ns { text-decoration: none; }
@@ -3118,6 +3148,9 @@ code, .code { font-family: Consolas, monaco, monospace; }
  .na5-m { margin: -3rem; }
  .na6-m { margin: -4rem; }
  .na7-m { margin: -5rem; }
+ .na8-m { margin: -6rem; }
+ .na9-m { margin: -7rem; }
+ .na10-m { margin: -8rem; }
  .nl1-m { margin-left: -.25rem; }
  .nl2-m { margin-left: -.5rem; }
  .nl3-m { margin-left: -1rem; }
@@ -3125,6 +3158,9 @@ code, .code { font-family: Consolas, monaco, monospace; }
  .nl5-m { margin-left: -3rem; }
  .nl6-m { margin-left: -4rem; }
  .nl7-m { margin-left: -5rem; }
+ .nl8-m { margin: -6rem; }
+ .nl9-m { margin: -7rem; }
+ .nl10-m { margin: -8rem; }
  .nr1-m { margin-right: -.25rem; }
  .nr2-m { margin-right: -.5rem; }
  .nr3-m { margin-right: -1rem; }
@@ -3132,6 +3168,9 @@ code, .code { font-family: Consolas, monaco, monospace; }
  .nr5-m { margin-right: -3rem; }
  .nr6-m { margin-right: -4rem; }
  .nr7-m { margin-right: -5rem; }
+ .nr8-m { margin: -6rem; }
+ .nr9-m { margin: -7rem; }
+ .nr10-m { margin: -8rem; }
  .nb1-m { margin-bottom: -.25rem; }
  .nb2-m { margin-bottom: -.5rem; }
  .nb3-m { margin-bottom: -1rem; }
@@ -3139,6 +3178,9 @@ code, .code { font-family: Consolas, monaco, monospace; }
  .nb5-m { margin-bottom: -3rem; }
  .nb6-m { margin-bottom: -4rem; }
  .nb7-m { margin-bottom: -5rem; }
+ .nb8-m { margin: -6rem; }
+ .nb9-m { margin: -7rem; }
+ .nb10-m { margin: -8rem; }
  .nt1-m { margin-top: -.25rem; }
  .nt2-m { margin-top: -.5rem; }
  .nt3-m { margin-top: -1rem; }
@@ -3146,6 +3188,9 @@ code, .code { font-family: Consolas, monaco, monospace; }
  .nt5-m { margin-top: -3rem; }
  .nt6-m { margin-top: -4rem; }
  .nt7-m { margin-top: -5rem; }
+ .nt8-m { margin: -6rem; }
+ .nt9-m { margin: -7rem; }
+ .nt10-m { margin: -8rem; }
  .strike-m { text-decoration: line-through; }
  .underline-m { text-decoration: underline; }
  .no-underline-m { text-decoration: none; }
@@ -3600,6 +3645,9 @@ code, .code { font-family: Consolas, monaco, monospace; }
  .na5-l { margin: -3rem; }
  .na6-l { margin: -4rem; }
  .na7-l { margin: -5rem; }
+ .na8-l { margin: -6rem; }
+ .na9-l { margin: -7rem; }
+ .na10-l { margin: -8rem; }
  .nl1-l { margin-left: -.25rem; }
  .nl2-l { margin-left: -.5rem; }
  .nl3-l { margin-left: -1rem; }
@@ -3607,6 +3655,9 @@ code, .code { font-family: Consolas, monaco, monospace; }
  .nl5-l { margin-left: -3rem; }
  .nl6-l { margin-left: -4rem; }
  .nl7-l { margin-left: -5rem; }
+ .nl8-l { margin: -6rem; }
+ .nl9-l { margin: -7rem; }
+ .nl10-l { margin: -8rem; }
  .nr1-l { margin-right: -.25rem; }
  .nr2-l { margin-right: -.5rem; }
  .nr3-l { margin-right: -1rem; }
@@ -3614,6 +3665,9 @@ code, .code { font-family: Consolas, monaco, monospace; }
  .nr5-l { margin-right: -3rem; }
  .nr6-l { margin-right: -4rem; }
  .nr7-l { margin-right: -5rem; }
+ .nr8-l { margin: -6rem; }
+ .nr9-l { margin: -7rem; }
+ .nr10-l { margin: -8rem; }
  .nb1-l { margin-bottom: -.25rem; }
  .nb2-l { margin-bottom: -.5rem; }
  .nb3-l { margin-bottom: -1rem; }
@@ -3621,6 +3675,9 @@ code, .code { font-family: Consolas, monaco, monospace; }
  .nb5-l { margin-bottom: -3rem; }
  .nb6-l { margin-bottom: -4rem; }
  .nb7-l { margin-bottom: -5rem; }
+ .nb8-l { margin: -6rem; }
+ .nb9-l { margin: -7rem; }
+ .nb10-l { margin: -8rem; }
  .nt1-l { margin-top: -.25rem; }
  .nt2-l { margin-top: -.5rem; }
  .nt3-l { margin-top: -1rem; }
@@ -3628,6 +3685,9 @@ code, .code { font-family: Consolas, monaco, monospace; }
  .nt5-l { margin-top: -3rem; }
  .nt6-l { margin-top: -4rem; }
  .nt7-l { margin-top: -5rem; }
+ .nt8-l { margin: -6rem; }
+ .nt9-l { margin: -7rem; }
+ .nt10-l { margin: -8rem; }
  .strike-l { text-decoration: line-through; }
  .underline-l { text-decoration: underline; }
  .no-underline-l { text-decoration: none; }
