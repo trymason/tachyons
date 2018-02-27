@@ -28,7 +28,9 @@
  * so be careful using them on smaller screens.
  * */
 
-.f-6,
+.f-6 {
+  font-size: 5rem;
+}
 .f-headline {
   font-size: 3.825rem;
 }
@@ -53,7 +55,7 @@
 /* Small and hard to read for many people so use with extreme caution */
 
 @media (--breakpoint-not-small){
-  .f-6-ns,
+  .f-6-ns { font-size: 5rem; }
   .f-headline-ns { font-size: 3.825rem; }
   .f-5-ns,
   .f-subheadline-ns { font-size: 2.5rem; }
@@ -69,7 +71,7 @@
 }
 
 @media (--breakpoint-medium) {
-  .f-6-m,
+  .f-6-m { font-size: 5rem; }
   .f-headline-m { font-size: 3.825rem; }
   .f-5-m,
   .f-subheadline-m { font-size: 2.5rem; }
@@ -85,7 +87,7 @@
 }
 
 @media (--breakpoint-large) {
-  .f-6-l,
+  .f-6-l { font-size: 5rem; }
   .f-headline-l {
     font-size: 3.825rem;
   }
