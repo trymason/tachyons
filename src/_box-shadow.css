@@ -11,7 +11,7 @@
  */
 
 .shadow-1 { box-shadow: 0px 6px 5px 0px rgba( 0, 0, 0, 0.06 ); }
-.shadow-2 { box-shadow: 0px 2px 50px 0px rgba( 0, 0, 0, 0.06 ); }
+.shadow-2 { box-shadow: 0px 2px 6px 0px rgba( 0, 0, 0, 0.06 ); }
 .shadow-3 { box-shadow: 0px 6px 40px 0px rgba( 0, 0, 0, 0.06 ); }
 .shadow-4 { box-shadow: 0px 0px 12px 0px rgba( 0, 0, 0, 0.2 ); }
 .shadow-5 { box-shadow: 0px 0px 14px 0px rgba( 0, 0, 0, 0.2 ); }
@@ -19,7 +19,7 @@
 
 @media (--breakpoint-not-small) {
   .shadow-1-ns { box-shadow: 0px 6px 5px 0px rgba( 0, 0, 0, 0.06 ); }
-  .shadow-2-ns { box-shadow: 0px 2px 50px 0px rgba( 0, 0, 0, 0.06 ); }
+  .shadow-2-ns { box-shadow: 0px 2px 6px 0px rgba( 0, 0, 0, 0.06 ); }
   .shadow-3-ns { box-shadow: 0px 6px 40px 0px rgba( 0, 0, 0, 0.06 ); }
   .shadow-4-ns { box-shadow: 0px 0px 12px 0px rgba( 0, 0, 0, 0.2 ); }
   .shadow-5-ns { box-shadow: 0px 0px 14px 0px rgba( 0, 0, 0, 0.2 ); }
@@ -28,7 +28,7 @@
 
 @media (--breakpoint-medium) {
   .shadow-1-m { box-shadow: 0px 6px 5px 0px rgba( 0, 0, 0, 0.06 ); }
-  .shadow-2-m { box-shadow: 0px 2px 50px 0px rgba( 0, 0, 0, 0.06 ); }
+  .shadow-2-m { box-shadow: 0px 2px 6px 0px rgba( 0, 0, 0, 0.06 ); }
   .shadow-3-m { box-shadow: 0px 6px 40px 0px rgba( 0, 0, 0, 0.06 ); }
   .shadow-4-m { box-shadow: 0px 0px 12px 0px rgba( 0, 0, 0, 0.2 ); }
   .shadow-5-m { box-shadow: 0px 0px 14px 0px rgba( 0, 0, 0, 0.2 ); }
@@ -37,7 +37,7 @@
 
 @media (--breakpoint-large) {
   .shadow-1-l { box-shadow: 0px 6px 5px 0px rgba( 0, 0, 0, 0.06 ); }
-  .shadow-2-l { box-shadow: 0px 2px 50px 0px rgba( 0, 0, 0, 0.06 ); }
+  .shadow-2-l { box-shadow: 0px 2px 6px 0px rgba( 0, 0, 0, 0.06 ); }
   .shadow-3-l { box-shadow: 0px 6px 40px 0px rgba( 0, 0, 0, 0.06 ); }
   .shadow-4-l { box-shadow: 0px 0px 12px 0px rgba( 0, 0, 0, 0.2 ); }
   .shadow-5-l { box-shadow: 0px 0px 14px 0px rgba( 0, 0, 0, 0.2 ); }
