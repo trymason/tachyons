@@ -22,7 +22,10 @@
   "license": "MIT",
   "devDependencies": {
     "copy-files": "^0.1.0",
+    "extend": ">=2.0.2",
     "immutable-css-cli": "^1.1.1",
+    "lodash": ">=4.17.11",
+    "merge": ">=1.2.1",
     "normalize.css": "^7.0.0",
     "tachyons-cli": "^1.0.11",
     "tachyons-modules": "^1.1.10",
