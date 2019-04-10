@@ -21,6 +21,7 @@
   ],
   "license": "MIT",
   "devDependencies": {
+    "browserslist": "^4.5.4",
     "copy-files": "^0.1.0",
     "extend": ">=2.0.2",
     "immutable-css-cli": "^1.1.1",
@@ -49,7 +50,5 @@
     "build:minify": "tachyons src/tachyons.css -m > css/tachyons.min.css",
     "build:watch": "watch \"npm run build\" ./src/"
   },
-  "dependencies": {
-    "browserslist": "^4.5.4"
-  }
+  "dependencies": {}
 }
